@@ -1,0 +1,87 @@
+{
+	"name": "dzonCesarz001-2.ai",
+	"width": 900,
+	"height": 600,
+	"layers": [
+		{
+			"x": "-12.33",
+			"y": "-1.88",
+			"r": "912.33",
+			"b": "601.88",
+			"width": "924.66",
+			"height": "603.76",
+			"layername": "Layer 5.svg",
+			"name": "Layer-5",
+			"type": "svg",
+			"filename": "Layer-5.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-925.18",
+			"y": "-0.17",
+			"r": "-24.82",
+			"b": "600.17",
+			"width": "900.36",
+			"height": "600.34",
+			"layername": "Layer 4.svg",
+			"name": "Layer-4",
+			"type": "svg",
+			"filename": "Layer-4.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-1850.10",
+			"y": "-0.10",
+			"r": "-949.90",
+			"b": "600.10",
+			"width": "900.20",
+			"height": "600.20",
+			"layername": "Layer 3.svg",
+			"name": "Layer-3",
+			"type": "svg",
+			"filename": "Layer-3.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2775.12",
+			"y": "-0.15",
+			"r": "-1874.88",
+			"b": "600.15",
+			"width": "900.24",
+			"height": "600.30",
+			"layername": "Layer 2.svg",
+			"name": "Layer-2",
+			"type": "svg",
+			"filename": "Layer-2.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-3700.04",
+			"y": "-0.03",
+			"r": "-2799.96",
+			"b": "600.03",
+			"width": "900.08",
+			"height": "600.06",
+			"layername": "Layer 1.svg",
+			"name": "Layer-1",
+			"type": "svg",
+			"filename": "Layer-1.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}
